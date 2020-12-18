@@ -1,0 +1,6 @@
+Docker Command
+
+
+Build docker
+
+docker build -t redzuan/docker-r-studio .
